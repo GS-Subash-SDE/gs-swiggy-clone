@@ -921,7 +921,7 @@ $RefreshReg$(_c, "Body");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","./RestaurantCard":"lCpT9","./ShimmerCard":"lbEaz","react-router-dom":"61z4w","../../utils/useOnlineStatus":"aFz4T","../../utils/mockData":"grSw8","../../utils/UserContext":"79uRI","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"lCpT9":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","react":"jMk1U","./RestaurantCard":"lCpT9","./ShimmerCard":"lbEaz","../../utils/useOnlineStatus":"aFz4T","../../utils/mockData":"grSw8","../../utils/UserContext":"79uRI","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","react-router-dom":"61z4w"}],"lCpT9":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$7721 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 $parcel$ReactRefreshHelpers$7721.init();
 var prevRefreshReg = globalThis.$RefreshReg$;
@@ -1101,6 +1101,6 @@ exports.default = useOnlineStatus;
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}]},["jMPQn"], null, "parcelRequire21de", {})
+},{"@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}]},["jMPQn"], null, "parcelRequire21de", {})
 
 //# sourceMappingURL=Body.5b2b6e2c.js.map

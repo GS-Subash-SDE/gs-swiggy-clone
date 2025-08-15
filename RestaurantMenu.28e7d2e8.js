@@ -764,7 +764,7 @@ $RefreshReg$(_c, "RestaurantMenu");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","./ShimmerCard":"lbEaz","react-router":"4ChVy","../../utils/useRestaurantMenu":"2aoy5","./RestaurantCategory":"7Mq5t","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"2aoy5":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","./ShimmerCard":"lbEaz","react-router":"4ChVy","../../utils/useRestaurantMenu":"2aoy5","./RestaurantCategory":"7Mq5t","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"2aoy5":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$1073 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 $parcel$ReactRefreshHelpers$1073.init();
 var prevRefreshReg = globalThis.$RefreshReg$;
@@ -831,7 +831,7 @@ exports.default = useRestaurantMenu;
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react":"jMk1U","./mockData":"grSw8","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"7Mq5t":[function(require,module,exports,__globalThis) {
+},{"react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","./mockData":"grSw8"}],"7Mq5t":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$b5bf = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 $parcel$ReactRefreshHelpers$b5bf.init();
 var prevRefreshReg = globalThis.$RefreshReg$;
@@ -1102,7 +1102,7 @@ $RefreshReg$(_c, "ItemLists");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","react-redux":"hbNxT","../../utils/constants":"jcEU6","../../utils/cartSlice":"fLKRo","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"jcEU6":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","react-redux":"hbNxT","../../utils/constants":"jcEU6","../../utils/cartSlice":"fLKRo","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"jcEU6":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "LOGO_URL", ()=>LOGO_URL);

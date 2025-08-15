@@ -858,7 +858,7 @@ $RefreshReg$(_c, "Header");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","react-router-dom":"61z4w","../../utils/constants":"jcEU6","../../utils/useOnlineStatus":"aFz4T","../../utils/UserContext":"79uRI","react-redux":"hbNxT","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"jcEU6":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","react":"jMk1U","../../utils/constants":"jcEU6","../../utils/useOnlineStatus":"aFz4T","../../utils/UserContext":"79uRI","react-redux":"hbNxT","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","react-router-dom":"61z4w"}],"jcEU6":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "LOGO_URL", ()=>LOGO_URL);
@@ -901,6 +901,6 @@ exports.default = useOnlineStatus;
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}]},["26CGp"], null, "parcelRequire21de", {})
+},{"@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}]},["26CGp"], null, "parcelRequire21de", {})
 
 //# sourceMappingURL=Header.7bf21248.js.map
