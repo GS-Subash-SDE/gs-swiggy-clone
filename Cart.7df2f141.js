@@ -762,7 +762,7 @@ $RefreshReg$(_c, "Cart");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","react-redux":"hbNxT","./ItemLists":"96pGA","../../utils/cartSlice":"fLKRo","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"96pGA":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","react-redux":"hbNxT","./ItemLists":"96pGA","../../utils/cartSlice":"fLKRo","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"96pGA":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$2379 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 $parcel$ReactRefreshHelpers$2379.init();
 var prevRefreshReg = globalThis.$RefreshReg$;
@@ -948,7 +948,7 @@ $RefreshReg$(_c, "ItemLists");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","react-redux":"hbNxT","../../utils/constants":"jcEU6","../../utils/cartSlice":"fLKRo","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"jcEU6":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","react-redux":"hbNxT","../../utils/constants":"jcEU6","../../utils/cartSlice":"fLKRo","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"jcEU6":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "LOGO_URL", ()=>LOGO_URL);
